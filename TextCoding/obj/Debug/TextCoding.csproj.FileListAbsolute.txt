@@ -1,0 +1,56 @@
+d:\документы\visual studio 2013\Projects\TextCoding\TextCoding\bin\Debug\TextCoding.exe.config
+D:\University\Семестр 2\Технологии защиты информации\Лабораторная работа №5 (сеть Фейстеля)\TextCoding\TextCoding\bin\Debug\TextCoding.exe.config
+D:\University\Семестр 2\Технологии защиты информации\Лабораторная работа №5 (сеть Фейстеля)\TextCoding\TextCoding\bin\Debug\TextCoding.exe
+D:\University\Семестр 2\Технологии защиты информации\Лабораторная работа №5 (сеть Фейстеля)\TextCoding\TextCoding\bin\Debug\TextCoding.pdb
+D:\University\Семестр 2\Технологии защиты информации\Лабораторная работа №5 (сеть Фейстеля)\TextCoding\TextCoding\obj\Debug\TextCoding.csprojResolveAssemblyReference.cache
+D:\University\Семестр 2\Технологии защиты информации\Лабораторная работа №5 (сеть Фейстеля)\TextCoding\TextCoding\obj\Debug\TextCoding.Form1.resources
+D:\University\Семестр 2\Технологии защиты информации\Лабораторная работа №5 (сеть Фейстеля)\TextCoding\TextCoding\obj\Debug\TextCoding.Properties.Resources.resources
+D:\University\Семестр 2\Технологии защиты информации\Лабораторная работа №5 (сеть Фейстеля)\TextCoding\TextCoding\obj\Debug\TextCoding.csproj.GenerateResource.Cache
+D:\University\Семестр 2\Технологии защиты информации\Лабораторная работа №5 (сеть Фейстеля)\TextCoding\TextCoding\obj\Debug\TextCoding.exe
+D:\University\Семестр 2\Технологии защиты информации\Лабораторная работа №5 (сеть Фейстеля)\TextCoding\TextCoding\obj\Debug\TextCoding.pdb
+C:\Users\Milestone\Desktop\TextCoding\TextCoding\bin\Debug\TextCoding.exe.config
+C:\Users\Milestone\Desktop\TextCoding\TextCoding\obj\Debug\TextCoding.exe
+C:\Users\Milestone\Desktop\TextCoding\TextCoding\obj\Debug\TextCoding.pdb
+C:\Users\Milestone\Desktop\TextCoding\TextCoding\bin\Debug\TextCoding.exe
+C:\Users\Milestone\Desktop\TextCoding\TextCoding\bin\Debug\TextCoding.pdb
+C:\Users\Milestone\Desktop\TextCoding\TextCoding\obj\Debug\TextCoding.csprojResolveAssemblyReference.cache
+C:\Users\Milestone\Desktop\TextCoding\TextCoding\obj\Debug\TextCoding.Form1.resources
+C:\Users\Milestone\Desktop\TextCoding\TextCoding\obj\Debug\TextCoding.Properties.Resources.resources
+C:\Users\Milestone\Desktop\TextCoding\TextCoding\obj\Debug\TextCoding.csproj.GenerateResource.Cache
+C:\Users\Milestone\Desktop\TextCoding — копия\TextCoding\bin\Debug\TextCoding.exe.config
+C:\Users\Milestone\Desktop\TextCoding — копия\TextCoding\obj\Debug\TextCoding.exe
+C:\Users\Milestone\Desktop\TextCoding — копия\TextCoding\obj\Debug\TextCoding.pdb
+C:\Users\Milestone\Desktop\TextCoding — копия\TextCoding\bin\Debug\TextCoding.exe
+C:\Users\Milestone\Desktop\TextCoding — копия\TextCoding\bin\Debug\TextCoding.pdb
+C:\Users\Milestone\Desktop\TextCoding — копия\TextCoding\obj\Debug\TextCoding.csprojResolveAssemblyReference.cache
+C:\Users\Milestone\Desktop\TextCoding — копия\TextCoding\obj\Debug\TextCoding.Form1.resources
+C:\Users\Milestone\Desktop\TextCoding — копия\TextCoding\obj\Debug\TextCoding.Properties.Resources.resources
+C:\Users\Milestone\Desktop\TextCoding — копия\TextCoding\obj\Debug\TextCoding.csproj.GenerateResource.Cache
+C:\Users\Milestone\Desktop\Лабораторная работа №5 (сеть Фейстеля)\TextCoding — с комментариями и изменением в изменении блоков местами\TextCoding\bin\Debug\TextCoding.exe.config
+C:\Users\Milestone\Desktop\Лабораторная работа №5 (сеть Фейстеля)\TextCoding — с комментариями и изменением в изменении блоков местами\TextCoding\obj\Debug\TextCoding.exe
+C:\Users\Milestone\Desktop\Лабораторная работа №5 (сеть Фейстеля)\TextCoding — с комментариями и изменением в изменении блоков местами\TextCoding\obj\Debug\TextCoding.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Lab 1\TextCoding\TextCoding\bin\Debug\TextCoding.exe.config
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Lab 1\TextCoding\TextCoding\obj\Debug\TextCoding.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Lab 1\TextCoding\TextCoding\obj\Debug\TextCoding.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding\TextCoding\bin\Debug\TextCoding.exe.config
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding\TextCoding\obj\Debug\TextCoding.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding\TextCoding\obj\Debug\TextCoding.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding\TextCoding\bin\Debug\TextCoding.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding\TextCoding\bin\Debug\TextCoding.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding\TextCoding\obj\Debug\TextCoding.csprojResolveAssemblyReference.cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding\TextCoding\obj\Debug\TextCoding.Form1.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding\TextCoding\obj\Debug\TextCoding.Properties.Resources.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding\TextCoding\obj\Debug\TextCoding.csproj.GenerateResource.Cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\bin\Debug\TextCoding.exe.config
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\obj\Debug\TextCoding.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\obj\Debug\TextCoding.pdb
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\bin\Debug\TextCoding.exe.config
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\bin\Debug\TextCoding.exe
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\bin\Debug\TextCoding.pdb
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\obj\Debug\TextCoding.csprojAssemblyReference.cache
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\obj\Debug\TextCoding.Form1.resources
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\obj\Debug\TextCoding.Properties.Resources.resources
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\obj\Debug\TextCoding.csproj.GenerateResource.cache
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\obj\Debug\TextCoding.csproj.CoreCompileInputs.cache
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\obj\Debug\TextCoding.exe
+D:\Университетские файлы с google диска\Информационная безопасность\Лабораторная работа №2\TextCoding(SHA)\TextCoding\obj\Debug\TextCoding.pdb
